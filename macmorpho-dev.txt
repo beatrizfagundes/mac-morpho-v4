@@ -202,7 +202,7 @@ No_PREP+ART dia_N 29_N de_PREP dezembro_N passado_PCP ,_PU os_ART peessebistas_N
 "_PU Nós_PROPESS apresentaremos_V uma_ART ação_N direta_ADJ de_PREP inconstitucionalidade_N "_PU ,_PU diz_V ._PU
 Os_ART orçamentos_N fixados_PCP pela_PREP+ART Eletropaulo_NPROP ,_PU de_PREP acordo_PREP com_PREP a_ART diretoria_N da_PREP+ART estatal_N ,_PU foram_V calculados_PCP dentro_PREP da_PREP+ART realidade_N de_PREP mercado_N ._PU
 Durante_PREP reunião_N com_PREP entidades_N civis_ADJ no_PREP+ART campus_N da_PREP+ART Universidade_NPROP Federal_NPROP do_NPROP Pará_NPROP ,_PU o_ART líder_N petista_ADJ afirmou_V ainda_KS que_KS o_ART Exército_NPROP poderá_V substituir_V o_ART trabalho_N das_PREP+ART empreiteiras_N em_PREP obras_N públicas_ADJ ,_PU como_PREP a_ART construção_N de_PREP estradas_N ._PU
-"_PU O_ART deputado_N Raul_NPROP Belém_NPROP (_PU )_PU ,_PU por_PDEN exemplo_PDEN ,_PU só_PDEN não_ADV apareceu_V na_PREP+ART votação_N porque_KS não_ADV teve_V ninguém_PROSUB que_PRO-KS ligasse_V para_PREP ele_PROPESS ._PU
+"_PU O_ART deputado_N Raul_NPROP Belém_NPROP ,_PU por_PDEN exemplo_PDEN ,_PU só_PDEN não_ADV apareceu_V na_PREP+ART votação_N porque_KS não_ADV teve_V ninguém_PROSUB que_PRO-KS ligasse_V para_PREP ele_PROPESS ._PU
 Se_KS eu_PROPESS reclamar_V ,_PU eles_PROPESS são_V bem_ADV capazes_ADJ de_PREP trocar_V é_V o_ART "_PU c_N "_PU pelo_PREP+ART "_PU b_N "_PU ._PU
 Sarney_NPROP seria_V um_ART aliado_N bem-vindo_ADJ ._PU
 Fleury_NPROP empossou_V ontem_ADV os_ART novos_ADJ secretários_N de_PREP Estado_N ._PU
@@ -240,7 +240,7 @@ Com_PREP o_ART fim_N do_PREP+ART período_N de_PREP convenções_N ,_PU a_ART c�
 -_PU indagou_V Lula_NPROP ._PU
 A_ART bancada_N do_PREP+ART PDT_NPROP ficou_V contra_PREP a_ART proposta_N ,_PU mas_KC concordou_V em_PREP que_KS ela_PROPESS fosse_V votada_PCP no_PREP+ART plenário_N ._PU
 As_ART relações_N entre_PREP EUA_NPROP e_KC Brasil_NPROP ,_PU que_PRO-KS haviam_V esfriado_PCP depois_PREP da_PREP+ART renúncia_N do_PREP+ART ex-presidente_N Fernando_NPROP Collor_NPROP ,_PU atravessam_V período_N positivo_ADJ ._PU
-Os_ART deputados_N João_NPROP Paulo_NPROP (_PU )_PU e_KC Paulo_NPROP Titan_NPROP (_PU )_PU também_PDEN foram_V roubados_PCP ._PU
+Os_ART deputados_N João_NPROP Paulo_NPROP e_KC Paulo_NPROP Titan_NPROP também_PDEN foram_V roubados_PCP ._PU
 E_KC em_ADV seguida_ADV ,_PU invariavelmente_ADV ,_PU dispara_V cargas_N sucessivas_ADJ de_PREP insultos_N contra_PREP Lula_NPROP ,_PU cada_PROADJ vez_N mais_ADV pesados_PCP ._PU
 "_PU Quero_V um_ART recolhimento_N de_PREP 15_NUM dias_N para_PREP avaliar_V o_ART quadro_N político_ADJ "_PU ,_PU disse_V Sarney_NPROP ._PU
 Logo_KC ,_PU sua_PROADJ chance_N de_PREP enfrentar_V o_ART petista_N é_V derrubar_V FHC_NPROP ,_PU segundo_ADJ colocado_N em_PREP todas_PROADJ as_ART pesquisas_N eleitorais_ADJ ._PU
@@ -981,7 +981,7 @@ Disse_V que_KS todos_PROSUB que_PRO-KS o_PROPESS apóiam_V serão_V convidados_P
 Santa_NPROP Catarina_NPROP vai_V testar_V voto_N eletrônico_ADJ
 O_ART candidato_N informou_V ontem_ADV que_KS São_NPROP Paulo_NPROP poderá_V se_PROPESS desfazer_V de_PREP parte_N de_PREP seus_PROADJ ativos_N para_PREP poder_V pagar_V a_ART dívida_N de_PREP R$_CUR 19_NUM bilhões_N (_PU vencida_PCP ou_KC por_PREP vencer_V )_PU que_PRO-KS tem_V atualmente_ADV ._PU
 Para_PREP ele_PROPESS ,_PU o_ART Fazenda_NPROP é_V um_ART "_PU homem_N sério_ADJ "_PU ._PU
-Ela_PROPESS é_V coordenadora_ADJ de_PREP capacitação_N de_PREP desenvolvimento_N do_PREP+ART Centro_NPROP de_NPROP Treinamento_NPROP do_PREP+ART MEC_NPROP (_PU )_PU ,_PU em_PREP Brasília_NPROP ._PU
+Ela_PROPESS é_V coordenadora_ADJ de_PREP capacitação_N de_PREP desenvolvimento_N do_PREP+ART Centro_NPROP de_NPROP Treinamento_NPROP do_PREP+ART MEC_NPROP ,_PU em_PREP Brasília_NPROP ._PU
 Brasil_NPROP
 Mas_KC é_V compreensível_ADJ que_KS as_ART mulheres_N estejam_V sob_PREP um_ART risco_N maior_ADJ ,_PU pois_KC o_ART interior_N da_PREP+ART vagina_N fica_V exposto_PCP ao_PREP+ART fluido_N seminal_ADJ por_PREP mais_PREP de_PREP uma_NUM hora_N após_PREP o_ART ato_N sexual_ADJ "_PU ._PU
 Ele_PROPESS nunca_ADV falou_V ?_PU
@@ -1085,11 +1085,10 @@ Saque_N ._PU
 O_ART importante_N é_V apresentar_V os_ART fundos_N como_PREP usurpradores_N do_PREP+ART dinheiro_N público_ADJ ._PU
 E_KC aí_ADV ,_PU se_KS a_ART inflação_N subir_V ,_PU o_ART valor_N convertido_PCP será_V bem_ADV menor_ADJ ._PU
 O_ART Plano_NPROP Collor_NPROP 1_NPROP recorreu_V a_ART inflação_N ponta_ADV a_ADV ponta_ADV -_PU que_PRO-KS é_V a_ART mesma_PROADJ coisa_N ._PU
-(_PU )_PU
 Cr$_CUR 629,00_NUM (_PU compra_N )_PU e_KC Cr$_CUR 632,00_NUM (_PU venda_N )_PU ._PU
 Entre_PREP os_ART setores_N de_PREP maior_ADJ desempenho_N negativo_ADJ estão_V malharia_N e_KC meias_N (_PU -_PU 1,93_NUM %_N )_PU ,_PU congelados_N e_KC supercongelados_N (_PU -_PU 1,62_NUM %_N )_PU e_KC relojoaria_N ._PU
 Corsa_NPROP evita_V demissão_N de_PREP 2.100_NUM empregados_N
-De_PREP acordo_PREP com_PREP Nicolau_NPROP Kohn_NPROP ,_PU diretor_N de_PREP comercialização_N da_PREP+ART Assobrav_NPROP (_PU )_PU ,_PU "_PU o_ART preço_N em_PREP URV_N tem_V que_KS ser_V um_ART preço_N médio_ADJ ._PU
+De_PREP acordo_PREP com_PREP Nicolau_NPROP Kohn_NPROP ,_PU diretor_N de_PREP comercialização_N da_PREP+ART Assobrav_NPROP ,_PU "_PU o_ART preço_N em_PREP URV_N tem_V que_KS ser_V um_ART preço_N médio_ADJ ._PU
 Cesta_N básica_ADJ tem_V recorde_N de_PREP alta_N
 Segundo_PREP ela_PROPESS ,_PU há_V supermercados_N que_PRO-KS comercializam_V a_ART cesta_N por_PREP R$_CUR 79,27_NUM ._PU
 segmento_N papel_ADJ da_PREP+ART Souza_NPROP Cruz_NPROP lucrou_V R$_CUR 4,3_NUM milhões_N (_PU aumento_N de_PREP 13,6_NUM %_N nas_PREP+ART vendas_N ,_PU com_PREP redirecionamento_N de_PREP exportações_N para_PREP o_ART mercado_N interno_ADJ )_PU ._PU
@@ -1187,7 +1186,7 @@ Com_PREP a_ART vantagem_N ,_PU o_ART time_N esfriou_V e_KC o_ART Guarani_NPROP c
 Na_PREP+ART entrada_N do_PREP+ART estádio_N ,_PU foram_V distribuídos_PCP aos_PREP+ART outros_PROADJ torcedores_N 6.000_NUM panfletos_N ,_PU onde_ADV-KS a_ART Mancha_NPROP afirma_V que_KS no_PREP+ART início_N da_PREP+ART temporada_N alertou_V os_ART dirigentes_N do_PREP+ART Palmeiras_NPROP sobre_PREP a_ART necessidade_N da_PREP+ART contratação_N de_PREP reforços_N para_PREP a_ART campanha_N em_PREP três_NUM competições_N simultâneas_ADJ (_PU Campeonato_NPROP Paulista_NPROP ,_PU Taça_NPROP Libertadores_NPROP da_NPROP América_NPROP e_KC Copa_NPROP do_NPROP Brasil_NPROP )_PU ._PU
 9_NUM min_N -_PU Rincón_NPROP recebe_V de_PREP Edílson_NPROP na_PREP+ART pequena_ADJ área_N e_KC ,_PU mesmo_PDEN sem_PREP ângulo_N ,_PU toca_V por_PREP baixo_PREP do_PREP+ART goleiro_N :_PU 1_N a_PREP 0_N ._PU
 Lakers_NPROP sofrem_V a_ART 1ª_ADJ derrota_N com_PREP Magic_NPROP
-Favorecido_PCP pela_PREP+ART rodada_N ,_PU o_ART Utah_NPROP Jazz_NPROP conquistou_V ,_PU por_ADV antecipação_ADV ,_PU a_ART quinta_ADJ vaga_N para_PREP etapa_N (_PU )_PU da_PREP+ART Conferência_NPROP Oeste_NPROP ._PU
+Favorecido_PCP pela_PREP+ART rodada_N ,_PU o_ART Utah_NPROP Jazz_NPROP conquistou_V ,_PU por_ADV antecipação_ADV ,_PU a_ART quinta_ADJ vaga_N para_PREP etapa_N da_PREP+ART Conferência_NPROP Oeste_NPROP ._PU
 Técnico_N
 O_ART torneio_N acontece_V no_PREP+ART Japão_NPROP por_PREP força_N de_PREP um_ART contrato_N entre_PREP a_PREP Confederação_NPROP Sul-Americana_NPROP de_NPROP Futebol_NPROP e_KC a_PREP Japan_NPROP Air_NPROP Lines_NPROP ._PU
 Se_KS optar_V por_PREP cinco_N no_PREP+ART meio-campo_N ,_PU Dé_NPROP lançará_V o_ART cabeça-de-área_N Fabiano_NPROP ,_PU para_PREP neutralizar_V as_ART arrancadas_N do_PREP+ART meia_N são-paulino_ADJ Palhinha_NPROP ._PU
@@ -1281,7 +1280,7 @@ Assim_ADV como_ADV todos_PROADJ os_ART jornais_N do_PREP+ART país_N ,_PU o_ART 
 O_ART ministro_N do_PREP+ART Interior_N ,_PU Carlos_NPROP Ruckauf_NPROP ,_PU disse_V que_KS não_ADV queria_V "_PU jogar_V mais_PROADJ lenha_N na_PREP+ART fogueira_N "_PU ,_PU e_KC que_KS todos_PROSUB esperavam_V que_KS Maradona_NPROP pudesse_V se_PROPESS recuperar_V ._PU
 Se_KS marcasse_V mais_PROADJ um_NUM gol_N neste_PREP+PROADJ torneio_N ,_PU seria_V o_ART homem_N que_PRO-KS mais_ADV marcou_V gols_N pela_PREP+ART equipe_N Argentina_ADJ em_PREP todas_PROADJ as_ART Copas_NPROP do_NPROP Mundo_NPROP ._PU
 Ela_PROPESS tem_V efeito_N semelhante_ADJ ao_PREP+PROSUB da_PREP+ART adrenalina_N ,_PU substância_N fabricada_PCP pelo_PREP+ART organismo_N e_KC que_PRO-KS ativa_V os_ART seus_PROADJ mecanismos_N de_PREP defesa_N ._PU
-O_ART presidente_N Paul_NPROP Biya_NPROP saiu_V da_PREP+ART capital_N (_PU )_PU e_KC se_PROPESS refugiou_V na_PREP+ART sua_PROADJ cidade_N natal_ADJ ,_PU em_PREP plena_ADJ selva_N ._PU
+O_ART presidente_N Paul_NPROP Biya_NPROP saiu_V da_PREP+ART capital_N e_KC se_PROPESS refugiou_V na_PREP+ART sua_PROADJ cidade_N natal_ADJ ,_PU em_PREP plena_ADJ selva_N ._PU
 Os_ART americanos_N comemoram_V uma_ART boa_ADJ notícia_N neste_PREP+PROADJ 4_N de_PREP Julho_N ,_PU dia_N da_PREP+ART independência_N e_KC do_PREP+ART jogo_N contra_PREP o_ART Brasil_NPROP ._PU
 Eu_PROPESS não_ADV sou_V louco_ADJ "_PU ._PU
 Ainda_KS bem_KS que_KS eu_PROPESS sempre_ADV tive_V vocação_N para_PREP princesa_N !_PU
@@ -1431,7 +1430,7 @@ Para_PREP o_ART treinador_N brasileiro_ADJ ,_PU o_ART time_N dos_PREP+ART EUA_NP
 O_ART técnico_N Bebeto_NPROP de_NPROP Freitas_NPROP tem_V acompanhado_PCP os_ART jogos_N do_PREP+ART Brasil_NPROP em_PREP Atenas_NPROP ._PU
 Na_PREP+ART primeira_ADJ versão_N -_PU uma_ART co-produção_N franco-holandesa_ADJ de_PREP 1988_N -_PU ,_PU compõem_V o_ART casal-vítima_N os_ART holandeses_N Saskia_NPROP (_PU Johana_NPROP Ter_NPROP Steege_NPROP )_PU e_KC Rex_NPROP (_PU Gene_NPROP Bervoets_NPROP )_PU ,_PU em_PREP férias_N na_PREP+ART França_NPROP ._PU
 ._PU Direção_N :_PU George_NPROP Sluizer_NPROP
-Em_PREP "_PU Recordações_NPROP de_NPROP Ontem_NPROP "_PU (_PU )_PU ,_PU Dennis_NPROP Morgan_NPROP ,_PU Dorothy_NPROP Malone_NPROP e_KC Janis_NPROP Paige_NPROP formavam_V o_ART triângulo_N amoroso_ADJ ._PU
+Em_PREP "_PU Recordações_NPROP de_NPROP Ontem_NPROP "_PU ,_PU Dennis_NPROP Morgan_NPROP ,_PU Dorothy_NPROP Malone_NPROP e_KC Janis_NPROP Paige_NPROP formavam_V o_ART triângulo_N amoroso_ADJ ._PU
 E_KC Sluizer_NPROP ,_PU devidamente_ADV escaldado_PCP ,_PU foi_V procurar_V outras_PROADJ águas_N ._PU
 O_ART novo_ADJ hit_N entre_PREP os_ART alternativos_N de_PREP Los_NPROP Angeles_NPROP é_V mandar_V como_PREP presentes_N cestas_N recheadas_PCP de_PREP velas_N -_PU de_PREP vários_PROADJ formatos_N e_KC cores_N ,_PU algumas_PROSUB com_PREP perfume_N ._PU
 Terá_V direito_N a_PREP desfile_N no_PREP+ART Cha_NPROP Cha_NPROP Cha_NPROP a_ART nova_ADJ coleção_N da_PREP+ART Lucy_NPROP in_NPROP the_NPROP Sky_NPROP ._PU
@@ -1529,7 +1528,7 @@ O_ART músico_N paquistanês_ADJ Nusrat_NPROP fez_V três_NUM exigências_N :_PU
 é_V muito_ADV tradicional_ADJ ._PU
 Depende_V do_PREP+ART espírito_N da_PREP+ART platéia_N ._PU
 Quarteto_N vocal_ADJ formado_PCP em_PREP 1991_N pela_PREP+ART diva_N romena_ADJ Ileana_NPROP Cotrubas_NPROP (_PU soprano_N )_PU ,_PU a_ART mezzo_N Julia_NPROP Hamari_NPROP ,_PU o_ART tenor_N Alexandre_NPROP Badea_NPROP e_KC o_ART barítono_N Ionel_NPROP Pantea_NPROP ._PU
-Como_PREP o_ART protagonista_N de_PREP "_PU 1.000_NPROP Years_NPROP Life_NPROP After_NPROP God_NPROP (_PU )_PU "_PU ,_PU a_ART última_ADJ história_N do_PREP+ART livro_N ,_PU ele_PROPESS diz_V :_PU "_PU (_PU mas_KC agora_ADV aos_PREP+ART 30_N )_PU acho_V que_KS o_ART preço_N que_PRO-KS pagamos_V por_PREP nossa_PROADJ vida_N de_PREP sonho_N é_V a_ART incapacidade_N de_PREP acreditar_V completamente_ADV no_PREP+ART amor_N ._PU
+Como_PREP o_ART protagonista_N de_PREP "_PU 1.000_NPROP Years_NPROP Life_NPROP After_NPROP God_NPROP "_PU ,_PU a_ART última_ADJ história_N do_PREP+ART livro_N ,_PU ele_PROPESS diz_V :_PU "_PU (_PU mas_KC agora_ADV aos_PREP+ART 30_N )_PU acho_V que_KS o_ART preço_N que_PRO-KS pagamos_V por_PREP nossa_PROADJ vida_N de_PREP sonho_N é_V a_ART incapacidade_N de_PREP acreditar_V completamente_ADV no_PREP+ART amor_N ._PU
 Ele_PROPESS acredita_V que_KS seu_PROADJ trabalho_N encontrou_V um_ART santuário_N no_PREP+ART reino_N da_PREP+ART religião_N ._PU
 Mas_KC se_KS sexo_N é_V assunto_N importante_ADJ ,_PU homossexualismo_N é_V assunto_N obrigatório_ADJ para_PREP a_ART "_PU Geração_N X_N "_PU ._PU
 Da_PREP+ART Equipe_N de_PREP Articulistas_N
@@ -1574,12 +1573,11 @@ Até_PREP hoje_ADV já_ADV gastou_V mais_PREP de_PREP US$_CUR 250_NUM mil_NUM (_
 ,_PU a_ART câmera_N mostra_V uma_ART pintura_N do_PREP+ART artista_N ,_PU que_PRO-KS transforma_V a_ART imagem_N do_PREP+ART galho_N em_PREP pessoas_N com_PREP as_ART mãos_N levantadas_PCP ,_PU em_PREP expressão_N de_PREP súplica_N ._PU
 O_ART único_ADJ elemento_N que_PRO-KS pode_V fazer_V com_PREP que_KS o_ART grande_ADJ público_N identifique_V o_ART personagem_N de_PREP que_PRO-KS se_PROPESS está_V falando_V é_V uma_ART capa_N da_PREP+ART revista_N "_PU Veja_NPROP "_PU ,_PU feita_PCP por_PREP Siron_NPROP ,_PU em_PREP que_PRO-KS sementes_N coloridas_PCP de_PREP plantas_N brasileiras_ADJ formam_V a_ART imagem_N do_PREP+ART rosto_N de_PREP Betinho_NPROP ._PU
 Globo_NPROP ,_PU 15h05_N ._PU
-(_PU )_PU ._PU
 A_ART coerência_N de_PREP sua_PROADJ obra_N ,_PU a_ART clareza_N que_PRO-KS ele_PROPESS tem_V quanto_PREP às_PREP+ART próprias_PROADJ intenções_N ,_PU ou_PDEN seja_PDEN ,_PU a_ART ausência_N de_PREP distância_N entre_PREP o_PROSUB que_PRO-KS ele_PROPESS diz_V e_KC o_PROSUB que_PRO-KS queria_V dizer_V ,_PU entre_PREP o_ART "_PU programa_N "_PU da_PREP+ART obra_N e_KC a_ART obra_N em_PREP si_PROPESS ,_PU tudo_PROADJ isso_PROSUB leva_V o_ART crítico_N a_PREP repetir_V sempre_ADV o_PROSUB que_PRO-KS já_ADV se_PROPESS sabe_V :_PU o_ART rigor_N de_PREP João_NPROP Cabral_NPROP ,_PU o_ART intelectualismo_N ,_PU a_ART secura_N mineral_ADJ ,_PU a_ART recusa_N às_PREP+ART efusões_N líricas_ADJ ._PU
 Alguém_PROSUB apara_V "_PU o_ART bigodinho_N "_PU ,_PU a_ART defunta_N é_V "_PU Santinha_N "_PU ,_PU o_ART moribundo_N "_PU abre_V o_ART olhinho_N vazio_ADJ "_PU ._PU
 Seu_PROADJ erotismo_N é_V a_PROSUB de_PREP se_PROPESS deixa_V fascinar_V por_PREP um_ART pequeno_ADJ detalhe_N ,_PU ao_ADV mesmo_ADV tempo_ADV horrível_ADJ e_KC excitante_ADJ -_PU o_ART leve_ADJ estrabismo_N ,_PU a_ART correntinha_N de_PREP ouro_N no_PREP+ART tornozelo_N ,_PU por_PDEN exemplo_PDEN ._PU
 Trevisan_NPROP desdramatiza_V o_ART drama_N ,_PU distancia_V -se_PROPESS do_PREP+ART horrível_N ao_PREP fixar_V -lo_PROPESS em_PREP poucas_PROADJ linhas_N ._PU
-Intitula_V -se_PROPESS "_PU Rascunho_NPROP Literário_NPROP de_NPROP Robert_NPROP Musil_NPROP "_PU (_PU )_PU e_KC contém_V material_N antes_ADV impossível_ADJ de_PREP ser_V reproduzido_PCP ,_PU contido_PCP em_PREP 11.686_NUM páginas_N escritas_PCP a_PREP mão_N ._PU
+Intitula_V -se_PROPESS "_PU Rascunho_NPROP Literário_NPROP de_NPROP Robert_NPROP Musil_NPROP "_PU e_KC contém_V material_N antes_ADV impossível_ADJ de_PREP ser_V reproduzido_PCP ,_PU contido_PCP em_PREP 11.686_NUM páginas_N escritas_PCP a_PREP mão_N ._PU
 Rolou_V tudo_PROSUB em_PREP torno_PREP da_PREP+ART aprovação_N de_PREP uma_ART emenda_N -_PU e_KC sobre_PREP a_ART possibilidade_N ou_KC não_ADV dela_PREP+PROPESS tornar_V Orestes_NPROP Quércia_NPROP inelegível_ADJ ._PU
 Pantufas_N
 Hein_IN ?_PU
@@ -1588,7 +1586,6 @@ Se_KS alguém_PROSUB é_V louco_ADJ ,_PU ele_PROPESS é_V a_ART norma_N ,_PU nã
 Serviu_V no_PREP+ART exército_N austríaco_ADJ no_PREP+ART Sul_NPROP do_NPROP Tirol_NPROP entre_PREP 1915_N e_KC 1916_N ._PU
 Quanto_PROSUB :_PU Cr$_CUR 4.000_NUM
 Qual_PROSUB é_V o_ART ponto_N central_ADJ desta_PREP+PROADJ tua_PROADJ peça_N ?_PU
-(_PU )_PU
 E_KC toda_PROADJ uma_ART faixa_N etária_ADJ ._PU
 Nada_PROSUB acontece_V
 O_ART soul_N de_PREP Al_NPROP Green_NPROP tem_V algo_PROSUB em_PREP comum_ADJ com_PREP o_ART new_ADJ country_N de_PREP Lyle_NPROP Lovett_NPROP ?_PU
