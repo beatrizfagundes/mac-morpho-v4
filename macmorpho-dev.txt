@@ -826,14 +826,14 @@ Se_KS você_PROPESS ainda_ADV não_ADV se_PROPESS decidiu_V por_PREP um_NUM micr
 de_PREP ser_V finalizado_PCP o_ART processo_N de_PREP união_N das_PREP+ART empresas_N Aldus_NPROP e_KC Adobe_NPROP ,_PU dos_PREP+ART EUA_NPROP ._PU
 Além_PREP disso_PREP+PROSUB ,_PU o_ART usuário_N deverá_V se_PROPESS informar_V sobre_PREP o_ART horário_N de_PREP funcionamento_N do_PREP+ART serviço_N ,_PU pois_KC alguns_PROADJ BBS_NPROP operam_V apenas_PDEN em_PREP tempo_N parcial_ADJ ._PU
 Nos_PREP+ART Estados_NPROP Unidos_NPROP não_ADV é_V de_PREP hoje_ADV que_KS o_ART papel_N moeda_ADJ perdendo_V espaço_N para_PREP o_ART dinheiro_N de_PREP plástico_N ._PU
-A_ART Magnasoft_NPROP anunciou_V ,_PU na_PREP+ART semana_N passada_PCP ,_PU o_ART '_PU Harvard_NPROP Graphics_NPROP 3.0_NPROP para_PREP Windows_NPROP '_PU O_ART programa_N permite_V criar_V apresentações_N com_PREP gráficos_N que_PRO-KS podem_V ser_V mostradas_PCP em_PREP telões_N e_KC retroprojetores_N ._PU
-O_ART acordo_N vai_V prever_V o_ART licenciamento_N do_PREP+ART sistema_N operacional_ADJ '_PU Mac_NPROP Os_NPROP '_PU e_KC a_ART produção_N de_PREP micros_N Macintosh_NPROP com_PREP novas_ADJ '_PU caras_N '_PU ._PU
-Além_PREP de_PREP DOS_NPROP e_KC '_PU Windows_NPROP '_PU ,_PU o_ART 486/66_N vem_V com_PREP os_ART programas_N '_PU TabWorks_NPROP '_PU ,_PU '_PU MS-Works_NPROP '_PU ,_PU '_PU Prometheus_NPROP MaxFax_NPROP '_PU e_KC '_PU MS-Entertainment_NPROP Pack_NPROP '_PU instalados_PCP ._PU
+A_ART Magnasoft_NPROP anunciou_V ,_PU na_PREP+ART semana_N passada_PCP ,_PU o_ART "_PU Harvard_NPROP Graphics_NPROP 3.0_NPROP para_PREP Windows_NPROP "_PU O_ART programa_N permite_V criar_V apresentações_N com_PREP gráficos_N que_PRO-KS podem_V ser_V mostradas_PCP em_PREP telões_N e_KC retroprojetores_N ._PU
+O_ART acordo_N vai_V prever_V o_ART licenciamento_N do_PREP+ART sistema_N operacional_ADJ "_PU Mac_NPROP Os_NPROP "_PU e_KC a_ART produção_N de_PREP micros_N Macintosh_NPROP com_PREP novas_ADJ "_PU caras_N "_PU ._PU
+Além_PREP de_PREP DOS_NPROP e_KC "_PU Windows_NPROP "_PU ,_PU o_ART 486/66_N vem_V com_PREP os_ART programas_N "_PU TabWorks_NPROP "_PU ,_PU "_PU MS-Works_NPROP "_PU ,_PU "_PU Prometheus_NPROP MaxFax_NPROP "_PU e_KC "_PU MS-Entertainment_NPROP Pack_NPROP "_PU instalados_PCP ._PU
 Segundo_PREP o_ART vice-presidente_N da_PREP+ART Kodak_NPROP Brasileira_NPROP ,_PU Gilberto_NPROP Galan_NPROP ,_PU 50_NUM ,_PU a_ART Estação_NPROP Digital_NPROP deverá_V estar_V disponível_ADJ para_PREP os_ART usuários_N brasileiros_ADJ a_PREP partir_PREP do_PREP+ART final_N deste_PREP+PROADJ ano_N ._PU
 As_ART câmeras_N F90X_NPROP e_KC F70_NPROP foram_V os_ART grandes_ADJ lançamentos_N da_PREP+ART Nikon_NPROP ._PU
 Para_PREP conquistar_V mais_PROADJ público_N ,_PU as_ART lojas_N fazem_V promoções_N tentadoras_ADJ (_PU leia_V texto_N abaixo_ADV )_PU e_KC reduzem_V drasticamente_ADV os_ART preços_N ._PU
 Daniel_NPROP Ulian_NPROP ,_PU 12_NUM ,_PU não_ADV sabe_V ainda_ADV o_PRO-KS que_PRO-KS vai_V pedir_V aos_PREP+ART pais_N de_PREP presente_N ._PU
-A_ART enciclopédia_N '_PU MS_NPROP Encarta_NPROP 94_NPROP '_PU está_V sendo_V vendida_PCP por_PREP R$_CUR 73_NUM ._PU
+A_ART enciclopédia_N "_PU MS_NPROP Encarta_NPROP 94_NPROP "_PU está_V sendo_V vendida_PCP por_PREP R$_CUR 73_NUM ._PU
 Uma_ART dica_N é_V tentar_V encontrar_V um_ART punhal_N ._PU
 A_ART empresa_N vai_V sortear_V um_NUM micro_N com_PREP seu_PROADJ chip_N Pentium_NPROP por_PREP dia_N ._PU
 A_ART informática_N deixou_V de_PREP ser_V privilégio_N das_PREP+ART escolas_N privadas_ADJ ._PU
