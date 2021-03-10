@@ -7069,7 +7069,7 @@ A_ART razão_N ,_PU ninguém_PROSUB sabe_V ._PU
 E_KC ,_PU fundamental_ADJ ,_PU evitar_V interferências_N inadequadas_ADJ do_PREP+ART presidente_N Itamar_NPROP Franco_NPROP ._PU
 Nessas_PREP+PROADJ conversas_N ,_PU o_ART ministro_N demonstra_V estar_V angustiado_PCP com_PREP o_ART encurtamento_N dos_PREP+ART prazos_N ,_PU a_ART incerteza_N sobre_PREP o_ART efetivo_ADJ ajuste_N fiscal_ADJ ,_PU que_PRO-KS depende_V do_PREP+ART Congresso_NPROP ,_PU e_KC ,_PU em_ADV particular_ADV ,_PU a_ART transformação_N da_PREP+ART URV_NPROP (_PU Unidade_NPROP Real_NPROP de_NPROP Valor_NPROP )_PU em_PREP moeda_N -_PU essa_PROADJ tranformação_N ocorreria_V ,_PU na_PREP+ART melhor_N das_PREP+ART hipóteses_N ,_PU em_PREP três_NUM meses_N ._PU
 O_ART presidente_N da_PREP+ART Febraban_NPROP observa_V que_KS as_ART convenções_N partidárias_ADJ acontecerão_V somente_PDEN em_PREP abril_N ._PU
-A_ART lógica_N de_PREP Barbosa_NPROP estaria_V na_PREP+ART dificuldade_N de_PREP a_ART inflação_N cair_V de_ADV imediato_ADV até_PREP o_ART prazo_N de_PREP desincompatibilização_N [_PU ,_PU quando_ADV-KS FHC_NPROP terá_V que_KS sair_V do_PREP+ART governo_N caso_KS pretenda_V se_PROPESS candidatar_V ._PU
+A_ART lógica_N de_PREP Barbosa_NPROP estaria_V na_PREP+ART dificuldade_N de_PREP a_ART inflação_N cair_V de_ADV imediato_ADV até_PREP o_ART prazo_N de_PREP desincompatibilização_N ,_PU quando_ADV-KS FHC_NPROP terá_V que_KS sair_V do_PREP+ART governo_N caso_KS pretenda_V se_PROPESS candidatar_V ._PU
 E_KC é_V claro_ADJ que_KS não_ADV se_PROPESS pode_V entrar_V em_PREP negociação_N com_PREP a_ART candidatura_N fechada_PCP "_PU ,_PU disse_V Andrade_NPROP Vieira_NPROP ._PU
 A_ART bancada_N baiana_ADJ do_PREP+ART partido_N ,_PU ameaça_V até_PDEN votar_V o_ART plano_N econômico_ADJ se_KS a_ART aliança_N se_PROPESS concretizar_V ._PU
 O_ART planejamento_N inicial_ADJ do_PREP+ART PT_NPROP previa_V que_KS as_ART "_PU caravanas_N "_PU se_PROPESS transformariam_V no_PREP+ART mote_N da_PREP+ART publicidade_N de_PREP Lula_NPROP na_PREP+ART TV_N ._PU
@@ -8523,7 +8523,7 @@ O_ART levantamento_N é_V da_PREP+ART revista_N francesa_ADJ "_PU Écran_NPROP T
 Duzentos_NUM mil_NUM mil_N viram_V arte_N brasileira_ADJ do_PREP+ART século_N 20_N
 O_ART CD_N será_V distribuído_PCP a_PREP museus_N ,_PU bibliotecas_N e_KC universidades_N ,_PU no_PREP+ART Brasil_NPROP e_KC no_PREP+ART exterior_N ._PU
 Ferreira_NPROP destacou_V o_ART sucesso_N do_PREP+ART livro-catálogo_N sobre_PREP a_ART exposição_N ._PU
-Fonte_N :_PU Banco_N de_PREP Dados_N e_KC Fundação_NPROP Bienal_NPROP ;_PU os_ART dados_N de_PREP 89_N e_KC 91_N referem_V -se_PROPESS às_PREP+ART destes_PREP+PROADJ anos_N [_PU
+Fonte_N :_PU Banco_N de_PREP Dados_N e_KC Fundação_NPROP Bienal_NPROP ;_PU os_ART dados_N de_PREP 89_N e_KC 91_N referem_V -se_PROPESS às_PREP+ART destes_PREP+PROADJ anos_N
 O_ART "_PU carnaval_N "_PU prometido_PCP pela_PREP+ART organização_N do_PREP+ART festival_N foi_V na_PREP+ART verdade_N bem_ADV discreto_ADJ ._PU
 Com_PREP FHC_NPROP !_PU
 Antes_ADV Sol_NPROP que_KS mal_ADV acompanhado_PCP !_PU
