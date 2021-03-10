@@ -679,7 +679,6 @@ Além_PREP de_PREP cadastros_N das_PREP+ART pacientes_N com_PREP o_ART históric
 Lançado_PCP no_PREP+ART Brasil_NPROP este_PROADJ mês_N ,_PU o_ART programa_N é_V feito_PCP para_PREP uso_N doméstico_ADJ e_KC pequenas_ADJ empresas_N ._PU
 Em_PREP visita_N ao_PREP+ART Brasil_NPROP ,_PU Rubio_NPROP disse_V que_KS sua_PROADJ divisão_N respondeu_V por_PREP US$_CUR 1,5_NUM bilhão_N no_PREP+ART faturamento_N da_PREP+ART empresa_N no_PREP+ART ano_N passado_PCP ,_PU que_PRO-KS foi_V de_PREP US$_CUR 8_NUM bilhões_N ._PU
 Em_PREP "_PU The_NPROP Adventures_NPROP of_NPROP Nikko_NPROP "_PU ,_PU a_ART criança_N não_ADV se_PROPESS limita_V a_PREP ouvir_V a_ART história_N ._PU
-Tel_N :_PU tel_N ._PU
 A_ART Magnasoft_NPROP está_V vendendo_V o_ART "_PU Harvard_NPROP Sportlight_NPROP "_PU ._PU
 No_PREP+ART primeiro_ADJ trimestre_N deste_PREP+PROADJ ano_N ,_PU segundo_PREP a_ART fabricante_N de_PREP chips_N ,_PU as_ART vendas_N alcançaram_V o_ART recorde_N de_PREP US$_CUR 2,66_NUM bilhões_N ._PU
 Deve_V -se_PROPESS escolher_V "_PU Configurar_V impressora_N "_PU e_KC a_ART opção_N "_PU Adicionar_V "_PU ._PU
@@ -799,18 +798,18 @@ Peso_N -_PU Um_ART notebook_N não_ADV pode_V pesar_V mais_PREP do_PREP que_PREP
 O_ART programa_N também_PDEN se_PROPESS encarrega_V de_PREP transformar_V os_ART dados_N de_PREP imagens_N em_PREP sinais_N analógicos_ADJ para_PREP a_ART tela_N do_PREP+ART computador_N ._PU
 A_ART estação_N para_PREP aplicações_N pessoais_ADJ tem_V processador_N 486_N SX_N de_PREP 25_NUM MHz_N ,_PU memória_N de_PREP 8_NUM Mbytes_N ,_PU disco_N rígido_ADJ de_PREP 130_NUM Mbytes_N e_KC acionador_N de_PREP disquetes_N de_PREP 3,5_NUM polegadas_N ._PU
 Isso_PROSUB não_ADV desencorajou_V a_ART General_NPROP Magic_NPROP e_KC a_ART Motorola_NPROP ._PU
-V_NPROP S_NPROP ._PU é_V a_ART primeira_ADJ paciente_N da_PREP+ART Clínica_NPROP de_NPROP Fonoaudiologia_NPROP da_PREP+ART USP_NPROP a_PREP trabalhar_V com_PREP o_ART sistema_N SpeechViewer_NPROP (_PU visor_N da_PREP+ART voz_N ,_PU em_PREP tradução_N literal_ADJ )_PU ._PU
+V_NPROP S._NPROP é_V a_ART primeira_ADJ paciente_N da_PREP+ART Clínica_NPROP de_NPROP Fonoaudiologia_NPROP da_PREP+ART USP_NPROP a_PREP trabalhar_V com_PREP o_ART sistema_N SpeechViewer_NPROP (_PU visor_N da_PREP+ART voz_N ,_PU em_PREP tradução_N literal_ADJ )_PU ._PU
 Portanto_KC ,_PU é_V preciso_ADJ utilizar_V impressoras_N apropriadas_PCP para_PREP obter_V o_ART resultado_N ideal_ADJ ._PU
 O_ART sistema_N mais_ADV barato_ADJ (_PU a_PREP partir_PREP de_PREP US$_CUR 11.995_NUM ,_PU nos_PREP+ART EUA_NPROP )_PU vem_V com_PREP memória_N de_PREP 16_NUM Mbytes_N ,_PU disco_N rígido_ADJ de_PREP 340_NUM Mbytes_N ,_PU tela_N colorida_PCP de_PREP 9,4_NUM polegadas_N (_PU alta_ADJ resolução_N ,_PU com_PREP imagem_N mais_ADV definida_PCP )_PU ._PU
 Dos_PREP+ART 40_NUM alunos_N da_PREP+ART escola_N ,_PU nove_NUM usam_V computador_N ._PU
 Também_ADV voltado_PCP para_PREP pessoas_N com_PREP deficiência_N mental_ADJ ,_PU o_ART Thinkable_NPROP ,_PU da_PREP+ART IBM_NPROP ,_PU ajuda_V a_PREP desenvolver_V a_ART memória_N e_KC a_ART capacidade_N de_PREP comparar_V formas_N ._PU
 A_ART Crandal_NPROP ,_PU distribuidora_N da_PREP+ART Artisoft_NPROP ,_PU lança_V a_ART 6.0_N da_PREP+ART rede_N "_PU Lantastic_NPROP "_PU ._PU
-A_ART versão_N em_PREP português_N está_V disponível_ADJ nas_PREP+ART revendas_N da_PREP+ART WordPerfect_NPROP (_PU tel_N ._PU 011_N 844-4938_N )_PU e_KC está_V sendo_V vendida_PCP a_PREP US$_CUR 495_NUM para_PREP cinco_NUM usuários_N ._PU
+A_ART versão_N em_PREP português_N está_V disponível_ADJ nas_PREP+ART revendas_N da_PREP+ART WordPerfect_NPROP (_PU tel._N 011_N 844-4938_N )_PU e_KC está_V sendo_V vendida_PCP a_PREP US$_CUR 495_NUM para_PREP cinco_NUM usuários_N ._PU
 Caso_KS alguma_PROADJ frase_N não_ADV tenha_V sido_PCP compreendida_PCP ,_PU ou_KC para_PREP lembrar_V o_PRO-KS que_PRO-KS foi_V dito_PCP ,_PU o_ART símbolo_N de_PREP um_ART gravador_N ,_PU que_PRO-KS aparece_V automaticamente_ADV na_PREP+ART tela_N ,_PU pode_V ser_V acionado_PCP para_PREP relembrar_V diálogos_N com_PREP informações_N preciosas_ADJ ,_PU por_PDEN exemplo_PDEN ._PU
 Informações_N meteorológicas_ADJ podem_V ser_V buscadas_PCP direto_N na_PREP+ART fonte_N por_PREP qualquer_PROADJ pessoa_N que_PRO-KS tenha_V um_NUM micro_N e_KC um_NUM modem_N ._PU
 PÁG_N ._PU
 Os_ART vestibulandos_N da_PREP+ART Fuvest_NPROP -_PU Fundação_NPROP Universitária_NPROP para_NPROP o_NPROP Vestibular_NPROP ,_PU que_PRO-KS organiza_V exame_N para_PREP a_ART USP_NPROP e_KC mais_PROADJ quatro_NUM escolas_N associadas_PCP ,_PU em_PREP São_NPROP Paulo_NPROP -_PU podem_V consultar_V por_PREP computador_N as_ART informações_N sobre_PREP o_ART exame_N ._PU
-Onde_ADV Encontrar_V Canal_NPROP Vip_NPROP :_PU tel_N ._PU de_PREP voz_N (_PU 011_N 889-8366_N ;_PU tel_N ._PU de_PREP dados_N ,_PU (_PU 011_N 889-7222_N )_PU ;_PU MANDIC_NPROP :_PU tel_N ._PU de_PREP voz_N (_PU 011_N 816-3245_N )_PU ;_PU tel_N ._PU de_PREP dados_PCP ,_PU (_PU 011_N 816-3911_N )_PU ;_PU A_ART consulta_N ao_PREP+ART BBS_NPROP da_PREP+ART Fuvest_NPROP é_V livre_ADJ ._PU
+Onde_ADV Encontrar_V Canal_NPROP Vip_NPROP :_PU tel._N de_PREP voz_N (_PU 011_N 889-8366_N ;_PU tel._N de_PREP dados_N ,_PU (_PU 011_N 889-7222_N )_PU ;_PU MANDIC_NPROP :_PU tel._N de_PREP voz_N (_PU 011_N 816-3245_N )_PU ;_PU tel._N de_PREP dados_PCP ,_PU (_PU 011_N 816-3911_N )_PU ;_PU A_ART consulta_N ao_PREP+ART BBS_NPROP da_PREP+ART Fuvest_NPROP é_V livre_ADJ ._PU
 Tem_V tampo_N retrátil_ADJ para_PREP impressora_N e_KC gabinete_N para_PREP papel_N ._PU
 Cartas_N para_PREP a_ART seção_N Canal_NPROP Aberto_NPROP devem_V ser_V enviadas_N datilografadas_PCP para_PREP Folha_NPROP de_NPROP S._NPROP Paulo_NPROP ,_PU caderno_N Informática_NPROP ._PU
 Depois_ADV ,_PU porque_KS os_ART americanos_N sempre_ADV pagaram_V suas_PROADJ contas_N com_PREP cheques_N ,_PU por_PREP correio_N ._PU
@@ -1446,7 +1445,7 @@ Sem_PREP largar_V os_ART palcos_N ,_PU Leda_NPROP Senise_NPROP estréia_N hoje_A
 A_ART previsibilidade_N do_PREP+ART filme_N é_V inevitável_ADJ ._PU
 O_ART comprador_N -_PU um_ART colecionador_N europeu_ADJ -_PU não_ADV foi_V identificado_PCP ._PU
 As_ART armas_N viraram_V extensão_N do_PREP+ART órgão_N sexual_ADJ masculino_ADJ ._PU
-Lançamento_N :_PU Paris_NPROP Filmes_NPROP (_PU tel_N ._PU 011/864-3155_N )_PU
+Lançamento_N :_PU Paris_NPROP Filmes_NPROP (_PU tel._N 011/864-3155_N )_PU
 Lançamento_N :_PU Europa_NPROP Carat_NPROP
 "_PU Fala_V negão_N /_PU abre_V a_ART boca_N negão_N /_PU tchup_IN tchu_IN ,_PU tererê_IN "_PU ,_PU incita_V o_ART refrão_N de_PREP "_PU Samba_NPROP Rap_NPROP "_PU ,_PU uma_NUM das_PREP+ART mais_ADV fortes_ADJ candidatas_N a_PREP hit_N do_PREP+ART próximo_ADJ verão_N ._PU
 Da_PREP+ART Equipe_N de_PREP Articulistas_N
@@ -1461,7 +1460,7 @@ A_ART cúpula_N será_V uma_ART festa_N e_KC tanto_PROSUB ._PU
 Dois_NUM assessores_N próximos_ADJ de_PREP Menem_NPROP renunciaram_V quando_KS um_ART juiz_N investigou_V acusações_N de_PREP que_PRO-KS suas_PROADJ empresas_N haviam_V vendido_PCP leite_N contaminado_PCP ao_PREP+ART governo_N para_PREP ser_V distribuído_PCP a_PREP -_PU atenção_N bebês_N e_KC mães_N grávidas_ADJ ._PU
 Ou_KC seja_KC ,_PU o_PRO-KS que_PRO-KS "_PU você_PROPESS pinta_V é_V menos_ADV importante_ADJ do_KS que_KS "_PU como_KS "_PU você_PROPESS pinta_V ._PU
 Na_PREP+ART semana_N que_PRO-KS vem_V ,_PU a_ART Companhia_NPROP das_NPROP Letras_NPROP publica_V o_ART último_ADJ livro_N de_PREP Claude_NPROP Lévi-Strauss_NPROP ,_PU "_PU Saudades_NPROP do_NPROP Brasil_NPROP "_PU (_PU intitulado_PCP em_PREP português_N no_PREP+ART original_N )_PU ,_PU que_PRO-KS reúne_V as_ART fotos_N que_PRO-KS o_ART antropólogo_N francês_ADJ fez_V quando_KS deu_V aula_N na_PREP+ART USP_NPROP (_PU de_PREP 1935_N a_PREP 1937_N )_PU e_KC viajou_V pelas_PREP+ART terras_N indígenas_ADJ (_PU em_PREP 1938_N )_PU ._PU
-Onde_ADV :_PU Centro_NPROP Universitário_NPROP Maria_NPROP Antônia_NPROP (_PU r_N ._PU
+Onde_ADV :_PU Centro_NPROP Universitário_NPROP Maria_NPROP Antônia_NPROP
 Mas_KC não_ADV se_PROPESS trata_V de_PREP ecletismo_N ._PU
 De_PREP volta_N à_PREP+ART Europa_NPROP ,_PU conquistou_V prestígio_N especialmente_ADV em_PREP Barcelona_NPROP ,_PU Espanha_NPROP ,_PU onde_ADV-KS se_PROPESS fixou_V por_PREP algum_PROADJ tempo_N ._PU
 Evento_N :_PU Retrospectiva_N Ozualdo_NPROP Candeias_NPROP
@@ -1487,7 +1486,7 @@ Há_V uma_ART beleza_N histórica_ADJ neles_PREP+PROPESS ._PU
 Lindo_ADJ sonho_N ._PU
 Depois_PREP de_PREP passar_V quase_ADV uma_NUM década_N e_KC meia_NUM mais_ADV voltado_PCP para_PREP a_ART religiosa_N música_ADJ gospel_ADJ e_KC os_ART fiéis_N de_PREP sua_PROADJ igreja_N ,_PU reverendo_N Al_NPROP Green_NPROP ,_PU 47_NUM ,_PU volta_V ao_PREP+ART estilo_N que_PRO-KS o_PROPESS lançou_V no_PREP+ART final_N da_PREP+ART década_N de_PREP 60_N ,_PU como_PREP uma_PROSUB das_PREP+ART vozes_N negras_ADJ mais_ADV originais_ADJ da_PREP+ART música_N pop_ADJ deste_PREP+PROADJ século_N ._PU
 Desde_PREP então_ADV ,_PU é_V o_ART líder_N da_PREP+ART igreja_N Full_NPROP Gospel_NPROP Tabernacle_NPROP ,_PU em_PREP Memphis_NPROP ._PU
-dos_PREP+ART Chanés_NPROP ,_PU 127_NUM )_PU ;_PU e_KC a_ART peça_N "_PU Sete_NPROP Pecados_NPROP "_PU contionua_V em_PREP cartaz_N no_PREP+ART Centro_NPROP Cultural_NPROP (_PU r_N ._PU
+dos_PREP+ART Chanés_NPROP ,_PU 127_NUM )_PU ;_PU e_KC a_ART peça_N "_PU Sete_NPROP Pecados_NPROP "_PU contionua_V em_PREP cartaz_N no_PREP+ART Centro_NPROP Cultural_NPROP
 Ano_N passado_PCP ,_PU o_ART mexicano_N Robert_NPROP Rodriguez_NPROP conseguiu_V que_KS a_ART Columbia_NPROP Pictures_NPROP distribuísse_V o_ART filme_N de_PREP produção_N mais_ADV barata_ADJ da_PREP+ART história_N do_PREP+ART estúdio_N ._PU
 Eles_PROPESS reforçam_V os_ART estereótipos_N de_PREP atraso_N e_KC irracionalidade_N associados_PCP à_PREP+ART cultura_N oriental_ADJ ._PU
 Autor_N também_PDEN de_PREP "_PU A_NPROP Suitable_NPROP Boy_NPROP "_PU ._PU
@@ -1508,7 +1507,8 @@ Depois_ADV ,_PU em_PREP Londres_NPROP ,_PU ele_PROPESS se_PROPESS reaproximou_V 
 O_ART calo_N do_PREP+ART ensaio_N está_V na_PREP+ART confusão_N da_PREP+ART análise_N ,_PU presa_PCP a_PREP um_ART referencial_N teórico_ADJ pós-estruturalista_ADJ ._PU
 "_PU A_ART crise_N de_PREP sentir_V -se_PROPESS um_ART sujeito_N desterritorializado_PCP une_V sua_PROADJ insularidade_N à_PREP+ART própria_PROADJ identidade_N sexual_ADJ ,_PU vitimada_PCP pela_PREP+ART neutralização_N do_PREP+ART ser_N indefinido_ADJ que_PRO-KS se_PROPESS deixa_V arrastar_V pelo_PREP+ART incontrolado_PCP desejo_N de_PREP deslocamento_N "_PU ._PU
 Trata_V -se_PROPESS de_PREP um_ART reggae_N rasgado_PCP as_ART vozes_N do_PREP+ART coro_N lembram_V as_PROSUB de_PREP uma_ART igreja_N evangélica_ADJ ._PU
-EUA_NPROP ,_PU 1987_NUM ,_PU 111_NUM min._N ._PU Direção_N :_PU Richard_NPROP Donner_NPROP ._PU
+EUA_NPROP ,_PU 1987_NUM ,_PU 111_NUM min._N ._PU
+Direção_N :_PU Richard_NPROP Donner_NPROP ._PU
 A_ART parte_N o_ART interesse_N musical_ADJ da_PREP+ART coisa_N ,_PU o_PRO-KS que_PRO-KS chama_V a_ART atenção_N é_V a_ART perfeita_ADJ platitude_N da_PREP+ART realização_N ._PU
 Mas_KC houve_V também_PDEN excessos_N entre_PREP as_ART imagens_N ._PU
 LUÍS_NPROP ANTÔNIO_NPROP GIRON_NPROP
@@ -1551,10 +1551,10 @@ E_KC falam_V que_KS só_PDEN nós_PROPESS ,_PU dos_PREP+ART trópicos_N ,_PU gos
 É_V a_ART nossa_PROADJ malagueta_N ,_PU a_ART Capsicum_N frutescens_N ._PU
 A_ART polpa_N é_V então_ADV passada_PCP numa_PREP+ART peneira_N fina_ADJ o_ART bastante_N para_PREP reter_V as_ART sementes_N ._PU
 Doces_N ,_PU tortas_N e_KC cafés_N ._PU
-Joaquim_NPROP Floriano_NPROP ,_PU 254_NUM ,_PU tel_N ._PU 829-7899_N ,_PU Itaim_NPROP Bibi_NPROP ,_PU zona_N oeste_ADJ )_PU ._PU
-Antonio_NPROP Bicudo_NPROP ,_PU 25_NUM ,_PU tel_N ._PU 883-4669_N ,_PU Pinheiros_NPROP ,_PU zona_N oeste_ADJ )_PU ._PU
+Joaquim_NPROP Floriano_NPROP ,_PU 254_NUM ,_PU tel._N 829-7899_N ,_PU Itaim_NPROP Bibi_NPROP ,_PU zona_N oeste_ADJ ._PU
+Antonio_NPROP Bicudo_NPROP ,_PU 25_NUM ,_PU tel._N 883-4669_N ,_PU Pinheiros_NPROP ,_PU zona_N oeste_ADJ ._PU
 Até_PREP 1º_N de_PREP julho_N ._PU
-Masp_NPROP (_PU av.Paulista_NPROP ._PU
+Masp_NPROP (_PU av.Paulista_NPROP )_PU
 De_PREP seg_N a_PREP sex_N das_PREP+ART 13_N às_PREP+ART 18h_N ,_PU sáb_N das_PREP+ART 11h_N às_PREP+ART 14h_N ._PU
 Ter_N a_PREP sex_N das_PREP+ART 13h_N às_PREP+ART 19h_N e_KC sáb_N e_KC dom_N das_PREP+ART 11h_N às_PREP+ART 18h_N ._PU
 Ter_N a_PREP dom_N das_PREP+ART 13h_N às_PREP+ART 18h_N ._PU
@@ -1602,7 +1602,8 @@ A_ART cruzada_N anti_PREP "_PU câmera_N enlouquecida_PCP "_PU ,_PU "_PU efeitos
 Bandeirantes_NPROP vai_V transmitir_V no_PREP+ART Brasil_NPROP jornal_N diário_ADJ da_PREP+ART rede_N Abc_NPROP
 A_ART biografia_N escrita_PCP pela_PREP+ART pesquisadora_N traz_V também_PDEN uma_ART imagem_N interessante_ADJ dos_PREP+ART costumes_N sociais_ADJ e_KC mundanos_ADJ de_PREP Paris_NPROP no_PREP+ART século_N passado_PCP ._PU
 Globo_NPROP ,_PU 15h15_N ._PU
-EUA_NPROP ,_PU 1946_N ,_PU 128_NUM min._N ._PU Direção_N :_PU Clarence_NPROP Brown_NPROP ._PU
+EUA_NPROP ,_PU 1946_N ,_PU 128_NUM min._N ._PU
+Direção_N :_PU Clarence_NPROP Brown_NPROP ._PU
 A_ART mascarada_N sertaneja_ADJ de_PREP Cardoso_NPROP surge_V quase_ADV como_PREP uma_ART autopunição_N ._PU
 A_ART coisa_N toda_PROADJ era_V farsesca_ADJ e_KC demagógica_ADJ ;_PU mas_KC combinava_V com_PREP o_ART populismo_N do_PREP+ART candidato_N ,_PU e_KC de_PREP alguma_PROADJ forma_N sugeria_V a_ART idéia_N de_PREP uma_ART condução_N autoritária_ADJ dos_PREP+ART destinos_N da_PREP+ART sociedade_N ._PU
 Mas_KC ele_PROPESS piora_V falsamente_ADV ,_PU concedendo_V com_PREP chapéus_N de_PREP couro_N e_KC com_PREP o_ART PFL_NPROP ._PU
