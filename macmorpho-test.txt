@@ -1006,14 +1006,11 @@ Campos,_NPROP Haroldo_NPROP de_NPROP ._PU
 Snell,_NPROP Bruno_NPROP ._PU
 "_PU La_NPROP Concepción_NPROP Homerica_NPROP del_NPROP Hombre_NPROP "_PU ,_PU in_PREP "_PU Las_NPROP Fuentes_NPROP el_NPROP Pensamiento_NPROP Europeo_NPROP "_PU ,_PU trad._N de_PREP José_NPROP Vives_NPROP ,_PU Madrid_NPROP ,_PU 1965_N ,_PU pág._N 42_N ._PU
 LUIZ_NPROP ALBERTO_NPROP Machado_NPROP Cabral_NPROP é_V pós-graduando_N em_PREP grego_N antigo_ADJ na_PREP+ART USP_NPROP
-de_PREP vinho_N que_PRO-KS as_PROPESS coroa_V ,_PU e_KC as_ART primícias_N em_PREP copas_N
-à_PREP+ART roda_N distribuem_V ._PU
-Por_PREP todo_PROADJ o_ART dia_N cantam_V
-os_ART Dânaos_NPROP ,_PU aplacando_V o_ART deus_N peã_N belíssimo_ADJ !_PU
+de_PREP vinho_N que_PRO-KS as_PROPESS coroa_V ,_PU e_KC as_ART primícias_N em_PREP copas_N à_PREP+ART roda_N distribuem_V ._PU
+Por_PREP todo_PROADJ o_ART dia_N cantam_V os_ART Dânaos_NPROP ,_PU aplacando_V o_ART deus_N peã_N belíssimo_ADJ !_PU
 dança_N de_PREP jovens_N para_PREP o_ART Arqueiro_N ,_PU alegre_ADJ a_PREP ouvir_V -los_PROPESS ._PU
 só_PDEN então_ADV repousaram_V no_PREP+ART navio_N fundeado_PCP ;_PU
-menina_N da_PREP+ART manhã_N ,_PU se_PROPESS vão_V rumo_PREP ao_PREP+ART exército_NPROP
-enorme_ADJ dos_PREP+ART Aqueus_NPROP ._PU
+menina_N da_PREP+ART manhã_N ,_PU se_PROPESS vão_V rumo_PREP ao_PREP+ART exército_NPROP enorme_ADJ dos_PREP+ART Aqueus_NPROP ._PU
 O_ART Arqueiro_N envia_V um_ART vento_N
 brancas_ADJ ,_PU sopradas_PCP bem_ADV no_PREP+ART centro_N ,_PU e_KC em_PREP torno_PREP à_PREP+ART quilha_N
 soando_V ,_PU enquanto_KS a_ART nau_N ao_PREP+ART longo_N rasga_V a_ART rota_N ._PU
@@ -1034,22 +1031,13 @@ Paulo_NPROP Paes_NPROP ,_PU 68_NUM ,_PU mora_V em_PREP São_NPROP Paulo_NPROP e_
 Da_PREP+ART série_N "_PU Socráticos_NPROP "_PU são_V os_ART poemas_N "_PU Do_NPROP Evangelho_NPROP de_NPROP São_NPROP Jerônimo_NPROP "_PU ,_PU "_PU O_NPROP Piolho,_NPROP de_NPROP Aristóteles_NPROP a_NPROP Freud_NPROP "_PU ,_PU "_PU Estratégia_NPROP "_PU e_KC "_PU Fenomenologia_NPROP da_NPROP Certeza_NPROP "_PU ._PU
 As_ART ilustrações_N que_PRO-KS acompanham_V os_ART poemas_N são_V da_PREP+ART artista_N plástica_ADJ Elisa_NPROP Bracher_NPROP ._PU
 Cidade_N ,_PU por_ADV que_ADV me_PROPESS persegues_V ?_PU
-Com_PREP os_ART dedos_N sangrando_V
-já_ADV não_ADV cavei_V em_PREP teu_PROADJ chão_N
-os_ART sete_NUM palmos_N regulamentares_ADJ
-para_PREP enterrar_V meus_PROADJ mortos_N ?_PU
+Com_PREP os_ART dedos_N sangrando_V já_ADV não_ADV cavei_V em_PREP teu_PROADJ chão_N os_ART sete_NUM palmos_N regulamentares_ADJ para_PREP enterrar_V meus_PROADJ mortos_N ?_PU
 Não_ADV ficamos_V quites_ADJ desde_PREP então_ADV ?_PU
-Por_ADV que_ADV insistes_V
-as_ART luzes_N de_PREP tuas_PROADJ vitrinas_N
-com_PREP as_ART mercadorias_N do_PREP+ART sonho_N
-a_PREP tão_ADV bom_ADJ preço_N ?_PU
+Por_ADV que_ADV insistes_V as_ART luzes_N de_PREP tuas_PROADJ vitrinas_N com_PREP as_ART mercadorias_N do_PREP+ART sonho_N a_PREP tão_ADV bom_ADJ preço_N ?_PU
 Não_ADV é_V tempo_N de_PREP comprar_V ._PU
-Logo_ADV será_V tempo_N de_PREP viajar_V
-para_PREP não_ADV se_PROPESS sabe_V onde_ADV-KS ._PU
-Sabe_V -se_PROPESS apenas_PDEN que_KS é_V preciso_ADJ ir_V
-de_PREP mãos_N vazias_ADJ ._PU
-Em_ADV vão_ADV alongas_V tuas_PROADJ ruas_N
-de_PREP uma_ART aventura_N a_PREP cada_PROADJ esquina_N ._PU
+Logo_ADV será_V tempo_N de_PREP viajar_V para_PREP não_ADV se_PROPESS sabe_V onde_ADV-KS ._PU
+Sabe_V -se_PROPESS apenas_PDEN que_KS é_V preciso_ADJ ir_V de_PREP mãos_N vazias_ADJ ._PU
+Em_ADV vão_ADV alongas_V tuas_PROADJ ruas_N de_PREP uma_ART aventura_N a_PREP cada_PROADJ esquina_N ._PU
 Já_ADV não_ADV as_PROPESS tive_V todas_PROSUB ?_PU
 Em_ADV vão_ADV os_ART conhecidos_N me_PROPESS saúdam_V
 desse_PREP+PROADJ umbral_N onde_ADV-KS a_ART voz_N
@@ -1079,10 +1067,8 @@ lagarto_N empalhado_PCP ,_PU múmia_N do_PREP+ART Egito_NPROP ._PU
 ficou_V no_PREP+ART chão_N ,_PU nada_PROSUB fez_V de_PREP inaudito_ADJ :_PU
 disse_V apenas_PDEN um_NUM verso_N e_KC foi_V -se_PROPESS embora_ADV ._PU
 Do_NPROP Evangelho_NPROP de_NPROP São_NPROP Gerônimo_NPROP
-A_ART tradução_N dizem_V -no_PROPESS com_PREP desprezo_N -_PU não_ADV é_V a_ART mesma_PROADJ
-coisa_N que_KS o_ART original_N ._PU
-Talvez_ADV porque_KS tradutor_N e_KC autor_N não_ADV sejam_V a_ART mesma_PROADJ
-pessoa_N ._PU
+A_ART tradução_N dizem_V -no_PROPESS com_PREP desprezo_N -_PU não_ADV é_V a_ART mesma_PROADJ coisa_N que_KS o_ART original_N ._PU
+Talvez_ADV porque_KS tradutor_N e_KC autor_N não_ADV sejam_V a_ART mesma_PROADJ pessoa_N ._PU
 a_ART mesma_PROADJ mulher_N ,_PU o_ART mesmo_PROADJ cachorro_N ._PU
 O_PRO-KS que_PRO-KS ,_PU convenhamos_V ,_PU havia_V de_PREP ser_V supinamente_ADV
 já_ADV no_PREP+ART dia_N da_PREP+ART Criação_N ,_PU tradução_N e_KC original_N
@@ -1749,8 +1735,7 @@ Deus_NPROP não_ADV recebe_V encanadores_N !_PU
 Controle_V -se_PROPESS !_PU
 Mas_KC por_PREP que_PRO-KS o_ART Sr._N veio_V procurar_V Deus_NPROP ,_PU justamente_ADV ,_PU aqui_ADV ?_PU
 Este_PROSUB não_ADV é_V o_ART céu_N do_PREP+ART Brasil_NPROP ?_PU
-Os_ART três_N ,_PU muito_ADV compenetrados_PCP ,_PU cantam_V :_PU
-amado_PCP ,_PU varonil_ADJ !_PU
+Os_ART três_N ,_PU muito_ADV compenetrados_PCP ,_PU cantam_V :_PU amado_PCP ,_PU varonil_ADJ !_PU
 Salve_IN !_PU
 Ave_IN !_PU
 Viva_IN !_PU
@@ -1817,8 +1802,7 @@ Não_ADV me_PROPESS fala_V em_PREP giro_N ._PU
 Chega_V de_PREP girar_V !_PU
 Girei_V o_ART país_N inteiro_ADJ ,_PU fiz_V carreata_N ,_PU botei_V gravata_N ,_PU tanto_PROADJ showmício_N ,_PU que_PROADJ desperdício_N !_PU
 Montei_V em_PREP jegue_N ,_PU troquei_V de_PREP vice_N ,_PU comi_V buchada_N ,_PU não_ADV deu_V em_PREP nada_PROSUB !_PU
-Veja_V só_PDEN se_KS não_ADV mereço_V
-d'ele_PREP+PROPESS um_ADV pouco_ADV de_PREP atenção_N !_PU
+Veja_V só_PDEN se_KS não_ADV mereço_V d'ele_PREP+PROPESS um_ADV pouco_ADV de_PREP atenção_N !_PU
 Dele_PREP+PROPESS quem_PROSUB ?_PU
 Você_PROPESS está_V falando_V de_PREP quem_PROSUB ?_PU
 De_PREP Deus_NPROP ._PU
